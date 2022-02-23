@@ -1,7 +1,8 @@
-print("This is my Dev branch")
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+print("This is my Dev:add branch")
+
+
+def add(a, b):
+    return a + b
 
 
 # Press the green button in the gutter to run the script.
