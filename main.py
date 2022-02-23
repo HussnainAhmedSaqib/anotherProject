@@ -1,8 +1,13 @@
 print("This is my Dev Branch")
 print("This is my Dev:add branch")
+print("This is my Dev:mul branch")
 
 
 def add(a, b):
+    return a + b
+
+
+def mul(a, b):
     return a + b
 
 
