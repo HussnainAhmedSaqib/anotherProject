@@ -15,6 +15,10 @@ def div(a, b):
     return a / b
 
 
+def sub(a, b):
+    return a - b
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print('PyCharm')
