@@ -1,11 +1,18 @@
-print("This is my master branch")
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+print("This is my Dev Branch")
+print("This is my Dev:add branch")
+print("This is my Dev:mul branch")
+
+
+def add(a, b):
+    return a + b
+
+
+def mul(a, b):
+    return a + b
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
